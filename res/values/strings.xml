@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">InputMethodService</string>
+    <string name="ime_name">SampleInputMethod</string>
+    <string name="input_setting">input_setting</string>
+
+</resources>
